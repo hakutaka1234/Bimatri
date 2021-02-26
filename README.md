@@ -29,4 +29,7 @@ Jika Kodenya Terkirim(Silahkan Cek Sms Yang Masuk)
 
 Contoh Lengkap Di Bawah
 
+![Screenshot_20210226_202150](https://user-images.githubusercontent.com/63560321/109347544-e614ec80-78a5-11eb-97ca-d1f60c942ab5.jpg)
+
+
 ![Screenshot_20210226_202113](https://user-images.githubusercontent.com/63560321/109347206-5d964c00-78a5-11eb-9f71-7820b510f749.jpg)
