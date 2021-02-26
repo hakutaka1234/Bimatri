@@ -15,7 +15,7 @@ cd Bimatri
 
 php cek_internet.php
 
-# CARA
+# CARA MENGGUNAKAN
 
 Jalankan Dulu Script Nya ,Kemudian Masukan Nomer Kamu Yang Ingin Di Pakai
 
