@@ -29,4 +29,4 @@ Contoh Lengkap Di Bawah
 
 
 # HASIL 
-![Hasil](Screenshot_20210227_023238.jpg)
+![Hasil](img1.jpg)
